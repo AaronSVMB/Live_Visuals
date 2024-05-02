@@ -1,5 +1,4 @@
-pandas
-matplotlib
-seaborn
-ipywidgets
-warnings
+pandas==1.3.3
+ipywidgets==7.6.5
+matplotlib==3.4.3
+seaborn==0.13.2
